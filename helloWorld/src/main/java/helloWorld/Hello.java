@@ -21,5 +21,6 @@ public class Hello {
 		service.setName("Hello Spring");
 		message = service.sayHello();
 		System.out.println(message);
+		System.out.println("new sysout");
 	}
 }
